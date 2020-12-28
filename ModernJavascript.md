@@ -4,9 +4,9 @@
 
 - Classes
 - Arrow Functions
-- **Generators**
+- **_Generators_**
 - Block Scoping
 - Destructuring
 - Rest & Spread
 - Object Shorthand
-- **Async / Await**
+- **_Async / Await_**
